@@ -1,0 +1,11 @@
+.l-cell--lg {
+    max-width: 55rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.l-cell--sm {
+    max-width: 46rem;
+    margin-right: auto;
+    margin-left: auto;
+}

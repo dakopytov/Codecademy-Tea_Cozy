@@ -1,0 +1,10 @@
+.l-tea-card-collection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.l-tea-card-collection > * {
+    margin: 0.5rem 0.75rem;
+}

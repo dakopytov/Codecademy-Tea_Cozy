@@ -1,0 +1,32 @@
+/* Reset default padding and margin */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General rules */
+
+h2,
+h3 {
+    margin: 1rem 0;
+}
+
+html {
+    font-family: Helvetica;
+    font-size: 22px;
+    background-color: black;
+    color: seashell;
+}
+
+main {
+    opacity: 0.9;
+    text-align: center;
+}
+
+@media only screen and (max-width: 480px) {
+    html {
+        font-size: 18px;
+    }
+}

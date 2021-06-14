@@ -1,0 +1,7 @@
+.tea-area {
+    min-height: 35rem;
+    padding-top: 3rem;
+}
+ .tea-area .tea-area-text {
+    font-weight: bold;
+ }

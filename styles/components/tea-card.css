@@ -1,0 +1,17 @@
+.tea-card img {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 0.5rem;
+}
+
+.tea-card .tea-card-title {
+    display: block;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 480px) {
+    .tea-card img {
+        width: 100%;
+        height: auto;
+    }
+}

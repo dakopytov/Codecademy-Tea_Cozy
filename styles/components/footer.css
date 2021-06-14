@@ -1,0 +1,13 @@
+.footer {
+    padding: 0 1rem;
+}
+
+.footer .footer-copyright {
+    text-align: left;
+}
+
+@media only screen and (max-width: 1024px) {
+    .footer .footer-copyright {
+        text-align: center;
+    }
+}

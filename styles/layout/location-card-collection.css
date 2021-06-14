@@ -1,0 +1,10 @@
+.l-location-card-collection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.l-location-card-collection > * {
+    margin: 0.5rem 1rem;
+}
